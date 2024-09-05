@@ -28,7 +28,7 @@ class ChangelogParser:
 
         # take parsed changelogs and transform them into some other useful formats
         self._create_resource_changelogs(changelogs_by_date)
-        self._create_changelog_db_data(changelogs_by_date)
+        # self._create_changelog_db_data(changelogs_by_date)
 
     def run(self, version):
         logs = self._read_logs(version)
@@ -96,7 +96,6 @@ class ChangelogParser:
                             continue
                         icon = f'{{AbilityIcon|Ability={resource_name}|Size=20}}'
                         new_log = log.replace(resource_name, f'{icon} {resource_name}')
-                        print(new_log)
                         changelog[header][group_name][index] = new_log
 
         return changelog

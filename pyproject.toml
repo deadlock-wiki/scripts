@@ -16,6 +16,7 @@ pandas="^2.0.1"
 
 [tool.ruff]
 line-length = 101
+ignore = ['F841']
 
 [tool.ruff.lint]
 extend-select = ["E501"]

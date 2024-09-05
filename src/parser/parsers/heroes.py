@@ -120,6 +120,8 @@ class HeroParser:
         output_data = dict()
         for key in data:
             mapped_key = func(key)
-            output_data[mapped_key] = data[key]
+            value = data[key]
+            if value != '0' and value != 0:
+                output_data[mapped_key] = value
 
         return output_data

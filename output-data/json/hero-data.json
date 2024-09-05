@@ -1,7 +1,5 @@
 {
     "hero_astro": {
-        "AbilityResourceMax": 0,
-        "AbilityResourceRegenPerSecond": 0,
         "BoundAbilities": {
             "1": {
                 "AbilityCastDelay": 0.125,
@@ -111,15 +109,11 @@
         "SpiritDuration": 1,
         "SpiritRange": 1,
         "SpiritScaling": {},
-        "SprintSpeed": 0,
         "Stamina": 2,
         "StaminaRegenPerSecond": 0.2,
-        "WeaponPower": 0,
         "WeaponPowerScale": 1
     },
     "hero_atlas": {
-        "AbilityResourceMax": 0,
-        "AbilityResourceRegenPerSecond": 0,
         "BoundAbilities": {
             "1": {
                 "AbilityCooldown": 40.0,
@@ -201,15 +195,11 @@
         "SpiritDuration": 1,
         "SpiritRange": 1,
         "SpiritScaling": {},
-        "SprintSpeed": 0,
         "Stamina": 3,
         "StaminaRegenPerSecond": 0.2,
-        "WeaponPower": 0,
         "WeaponPowerScale": 1
     },
     "hero_bebop": {
-        "AbilityResourceMax": 0,
-        "AbilityResourceRegenPerSecond": 0,
         "BoundAbilities": {
             "1": {
                 "AbilityCooldown": 20.0,
@@ -314,12 +304,9 @@
         "SprintSpeed": 3,
         "Stamina": 3,
         "StaminaRegenPerSecond": 0.2,
-        "WeaponPower": 0,
         "WeaponPowerScale": 1
     },
     "hero_bomber": {
-        "AbilityResourceMax": 0,
-        "AbilityResourceRegenPerSecond": 0,
         "BoundAbilities": {
             "1": {
                 "AbilityCastDelay": 0.2,
@@ -383,15 +370,11 @@
         "SpiritDuration": 1,
         "SpiritRange": 1,
         "SpiritScaling": {},
-        "SprintSpeed": 0,
         "Stamina": 3,
         "StaminaRegenPerSecond": 0.2,
-        "WeaponPower": 0,
         "WeaponPowerScale": 1
     },
     "hero_cadence": {
-        "AbilityResourceMax": 0,
-        "AbilityResourceRegenPerSecond": 0,
         "BoundAbilities": {
             "1": {
                 "AbilityCastDelay": 0.75,
@@ -473,15 +456,11 @@
         "SpiritDuration": 1,
         "SpiritRange": 1,
         "SpiritScaling": {},
-        "SprintSpeed": 0,
         "Stamina": 3,
         "StaminaRegenPerSecond": 0.2,
-        "WeaponPower": 0,
         "WeaponPowerScale": 1
     },
     "hero_chrono": {
-        "AbilityResourceMax": 0,
-        "AbilityResourceRegenPerSecond": 0,
         "BoundAbilities": {
             "1": {
                 "AbilityCastDelay": 0.2,
@@ -594,15 +573,11 @@
         "SpiritDuration": 1,
         "SpiritRange": 1,
         "SpiritScaling": {},
-        "SprintSpeed": 0,
         "Stamina": 3,
         "StaminaRegenPerSecond": 0.2,
-        "WeaponPower": 0,
         "WeaponPowerScale": 1
     },
     "hero_dynamo": {
-        "AbilityResourceMax": 0,
-        "AbilityResourceRegenPerSecond": 0,
         "BoundAbilities": {
             "1": {
                 "AbilityCastDelay": 0.42,
@@ -689,15 +664,11 @@
         "SpiritDuration": 1,
         "SpiritRange": 1,
         "SpiritScaling": {},
-        "SprintSpeed": 0,
         "Stamina": 3,
         "StaminaRegenPerSecond": 0.2,
-        "WeaponPower": 0,
         "WeaponPowerScale": 1
     },
     "hero_forge": {
-        "AbilityResourceMax": 0,
-        "AbilityResourceRegenPerSecond": 0,
         "BoundAbilities": {
             "1": {
                 "AbilityCastDelay": 0.2,
@@ -813,15 +784,11 @@
         "SpiritDuration": 1,
         "SpiritRange": 1,
         "SpiritScaling": {},
-        "SprintSpeed": 0,
         "Stamina": 2,
         "StaminaRegenPerSecond": 0.2,
-        "WeaponPower": 0,
         "WeaponPowerScale": 1
     },
     "hero_genericperson": {
-        "AbilityResourceMax": 0,
-        "AbilityResourceRegenPerSecond": 0,
         "BoundAbilities": {
             "1": {
                 "AbilityCastDelay": 1.0,
@@ -882,15 +849,11 @@
         "SpiritDuration": 1,
         "SpiritRange": 1,
         "SpiritScaling": {},
-        "SprintSpeed": 0,
         "Stamina": 3,
         "StaminaRegenPerSecond": 0.2,
-        "WeaponPower": 0,
         "WeaponPowerScale": 1
     },
     "hero_ghost": {
-        "AbilityResourceMax": 0,
-        "AbilityResourceRegenPerSecond": 0,
         "BoundAbilities": {
             "1": {
                 "AbilityCooldown": 10.0,
@@ -985,12 +948,9 @@
         "SprintSpeed": 1,
         "Stamina": 3,
         "StaminaRegenPerSecond": 0.2,
-        "WeaponPower": 0,
         "WeaponPowerScale": 1
     },
     "hero_gigawatt": {
-        "AbilityResourceMax": 0,
-        "AbilityResourceRegenPerSecond": 0,
         "BoundAbilities": {
             "1": {
                 "AbilityCastDelay": 0.2,
@@ -1084,15 +1044,11 @@
         "SpiritScaling": {
             "MaxMoveSpeed": 0.028
         },
-        "SprintSpeed": 0,
         "Stamina": 3,
         "StaminaRegenPerSecond": 0.2,
-        "WeaponPower": 0,
         "WeaponPowerScale": 1
     },
     "hero_gunslinger": {
-        "AbilityResourceMax": 0,
-        "AbilityResourceRegenPerSecond": 0,
         "BoundAbilities": {
             "1": {
                 "AbilityCastDelay": 0.2,
@@ -1175,15 +1131,11 @@
         "SpiritDuration": 1,
         "SpiritRange": 1,
         "SpiritScaling": {},
-        "SprintSpeed": 0,
         "Stamina": 3,
         "StaminaRegenPerSecond": 0.2,
-        "WeaponPower": 0,
         "WeaponPowerScale": 1
     },
     "hero_haze": {
-        "AbilityResourceMax": 0,
-        "AbilityResourceRegenPerSecond": 0,
         "BoundAbilities": {
             "1": {
                 "AbilityCastDelay": 0.2,
@@ -1272,15 +1224,11 @@
         "SpiritScaling": {
             "ClipSize": 0.5
         },
-        "SprintSpeed": 0,
         "Stamina": 3,
         "StaminaRegenPerSecond": 0.2,
-        "WeaponPower": 0,
         "WeaponPowerScale": 1
     },
     "hero_hornet": {
-        "AbilityResourceMax": 0,
-        "AbilityResourceRegenPerSecond": 0,
         "BoundAbilities": {
             "1": {
                 "AbilityCastDelay": 0.2,
@@ -1375,15 +1323,11 @@
         "SpiritDuration": 1,
         "SpiritRange": 1,
         "SpiritScaling": {},
-        "SprintSpeed": 0,
         "Stamina": 2,
         "StaminaRegenPerSecond": 0.2,
-        "WeaponPower": 0,
         "WeaponPowerScale": 1
     },
     "hero_inferno": {
-        "AbilityResourceMax": 0,
-        "AbilityResourceRegenPerSecond": 0,
         "BoundAbilities": {
             "1": {
                 "AbilityCastDelay": 0.1,
@@ -1477,15 +1421,11 @@
         "SpiritDuration": 1,
         "SpiritRange": 1,
         "SpiritScaling": {},
-        "SprintSpeed": 0,
         "Stamina": 3,
         "StaminaRegenPerSecond": 0.2,
-        "WeaponPower": 0,
         "WeaponPowerScale": 1
     },
     "hero_kali": {
-        "AbilityResourceMax": 0,
-        "AbilityResourceRegenPerSecond": 0,
         "BoundAbilities": {
             "1": {
                 "AbilityCastDelay": 0.25,
@@ -1589,15 +1529,11 @@
         "SpiritDuration": 1,
         "SpiritRange": 1,
         "SpiritScaling": {},
-        "SprintSpeed": 0,
         "Stamina": 3,
         "StaminaRegenPerSecond": 0.2,
-        "WeaponPower": 0,
         "WeaponPowerScale": 1
     },
     "hero_kelvin": {
-        "AbilityResourceMax": 0,
-        "AbilityResourceRegenPerSecond": 0,
         "BoundAbilities": {
             "1": {
                 "AbilityCastDelay": 0.1,
@@ -1699,15 +1635,11 @@
         "SpiritDuration": 1,
         "SpiritRange": 1,
         "SpiritScaling": {},
-        "SprintSpeed": 0,
         "Stamina": 3,
         "StaminaRegenPerSecond": 0.2,
-        "WeaponPower": 0,
         "WeaponPowerScale": 1
     },
     "hero_krill": {
-        "AbilityResourceMax": 0,
-        "AbilityResourceRegenPerSecond": 0,
         "BoundAbilities": {
             "1": {
                 "AbilityCastDelay": 0.2,
@@ -1793,15 +1725,11 @@
         "SpiritDuration": 1,
         "SpiritRange": 1,
         "SpiritScaling": {},
-        "SprintSpeed": 0,
         "Stamina": 3,
         "StaminaRegenPerSecond": 0.2,
-        "WeaponPower": 0,
         "WeaponPowerScale": 1
     },
     "hero_lash": {
-        "AbilityResourceMax": 0,
-        "AbilityResourceRegenPerSecond": 0,
         "BoundAbilities": {
             "1": {
                 "AbilityCastDelay": 0.15,
@@ -1905,12 +1833,9 @@
         "SprintSpeed": 1,
         "Stamina": 3,
         "StaminaRegenPerSecond": 0.2,
-        "WeaponPower": 0,
         "WeaponPowerScale": 1
     },
     "hero_mirage": {
-        "AbilityResourceMax": 0,
-        "AbilityResourceRegenPerSecond": 0,
         "BoundAbilities": {
             "1": {
                 "AbilityCastDelay": 0.3,
@@ -2016,15 +1941,11 @@
         "SpiritDuration": 1,
         "SpiritRange": 1,
         "SpiritScaling": {},
-        "SprintSpeed": 0,
         "Stamina": 3,
         "StaminaRegenPerSecond": 0.2,
-        "WeaponPower": 0,
         "WeaponPowerScale": 1
     },
     "hero_nano": {
-        "AbilityResourceMax": 0,
-        "AbilityResourceRegenPerSecond": 0,
         "BoundAbilities": {
             "1": {
                 "AbilityCastDelay": 0.2,
@@ -2134,15 +2055,11 @@
         "SpiritDuration": 1,
         "SpiritRange": 1,
         "SpiritScaling": {},
-        "SprintSpeed": 0,
         "Stamina": 3,
         "StaminaRegenPerSecond": 0.2,
-        "WeaponPower": 0,
         "WeaponPowerScale": 1
     },
     "hero_orion": {
-        "AbilityResourceMax": 0,
-        "AbilityResourceRegenPerSecond": 0,
         "BoundAbilities": {
             "1": {
                 "AbilityCastDelay": 0.5,
@@ -2238,15 +2155,11 @@
             "RoundsPerSecond": 0.00625,
             "FireRate": 0.25
         },
-        "SprintSpeed": 0,
         "Stamina": 3,
         "StaminaRegenPerSecond": 0.2,
-        "WeaponPower": 0,
         "WeaponPowerScale": 1
     },
     "hero_rutger": {
-        "AbilityResourceMax": 0,
-        "AbilityResourceRegenPerSecond": 0,
         "BoundAbilities": {
             "1": {
                 "AbilityCharges": 1.0,
@@ -2341,15 +2254,11 @@
         "SpiritDuration": 1,
         "SpiritRange": 1,
         "SpiritScaling": {},
-        "SprintSpeed": 0,
         "Stamina": 3,
         "StaminaRegenPerSecond": 0.2,
-        "WeaponPower": 0,
         "WeaponPowerScale": 1
     },
     "hero_shiv": {
-        "AbilityResourceMax": 0,
-        "AbilityResourceRegenPerSecond": 0,
         "BoundAbilities": {
             "1": {
                 "AOERadius": "10m",
@@ -2453,15 +2362,11 @@
         "SpiritDuration": 1,
         "SpiritRange": 1,
         "SpiritScaling": {},
-        "SprintSpeed": 0,
         "Stamina": 3,
         "StaminaRegenPerSecond": 0.2,
-        "WeaponPower": 0,
         "WeaponPowerScale": 1
     },
     "hero_slork": {
-        "AbilityResourceMax": 0,
-        "AbilityResourceRegenPerSecond": 0,
         "BoundAbilities": {
             "1": {
                 "AbilityCastDelay": 0.2,
@@ -2559,15 +2464,11 @@
         "SpiritDuration": 1,
         "SpiritRange": 1,
         "SpiritScaling": {},
-        "SprintSpeed": 0,
         "Stamina": 3,
         "StaminaRegenPerSecond": 0.2,
-        "WeaponPower": 0,
         "WeaponPowerScale": 1
     },
     "hero_synth": {
-        "AbilityResourceMax": 0,
-        "AbilityResourceRegenPerSecond": 0,
         "BoundAbilities": {
             "1": {
                 "AbilityCastDelay": 0.3,
@@ -2653,15 +2554,11 @@
         "SpiritDuration": 1,
         "SpiritRange": 1,
         "SpiritScaling": {},
-        "SprintSpeed": 0,
         "Stamina": 3,
         "StaminaRegenPerSecond": 0.2,
-        "WeaponPower": 0,
         "WeaponPowerScale": 1
     },
     "hero_targetdummy": {
-        "AbilityResourceMax": 0,
-        "AbilityResourceRegenPerSecond": 0,
         "BoundAbilities": {
             "1": {
                 "AbilityCastDelay": 1.0,
@@ -2722,15 +2619,11 @@
         "SpiritDuration": 1,
         "SpiritRange": 1,
         "SpiritScaling": {},
-        "SprintSpeed": 0,
         "Stamina": 3,
         "StaminaRegenPerSecond": 0.2,
-        "WeaponPower": 0,
         "WeaponPowerScale": 1
     },
     "hero_tengu": {
-        "AbilityResourceMax": 0,
-        "AbilityResourceRegenPerSecond": 0,
         "BoundAbilities": {
             "1": {
                 "AbilityCastDelay": 0.2,
@@ -2832,15 +2725,11 @@
         "SpiritDuration": 1,
         "SpiritRange": 1,
         "SpiritScaling": {},
-        "SprintSpeed": 0,
         "Stamina": 4,
         "StaminaRegenPerSecond": 0.2,
-        "WeaponPower": 0,
         "WeaponPowerScale": 1
     },
     "hero_thumper": {
-        "AbilityResourceMax": 0,
-        "AbilityResourceRegenPerSecond": 0,
         "BoundAbilities": {
             "1": {
                 "AbilityCastDelay": 0.1,
@@ -2937,15 +2826,11 @@
         "SpiritDuration": 1,
         "SpiritRange": 1,
         "SpiritScaling": {},
-        "SprintSpeed": 0,
         "Stamina": 3,
         "StaminaRegenPerSecond": 0.2,
-        "WeaponPower": 0,
         "WeaponPowerScale": 1
     },
     "hero_tokamak": {
-        "AbilityResourceMax": 0,
-        "AbilityResourceRegenPerSecond": 0,
         "BoundAbilities": {
             "1": {
                 "AbilityCastDelay": 0.2,
@@ -3038,15 +2923,11 @@
         "SpiritDuration": 1,
         "SpiritRange": 1,
         "SpiritScaling": {},
-        "SprintSpeed": 0,
         "Stamina": 3,
         "StaminaRegenPerSecond": 0.2,
-        "WeaponPower": 0,
         "WeaponPowerScale": 1
     },
     "hero_viscous": {
-        "AbilityResourceMax": 0,
-        "AbilityResourceRegenPerSecond": 0,
         "BoundAbilities": {
             "1": {
                 "AbilityCastDelay": 0.001,
@@ -3161,15 +3042,11 @@
         "SpiritDuration": 1,
         "SpiritRange": 1,
         "SpiritScaling": {},
-        "SprintSpeed": 0,
         "Stamina": 3,
         "StaminaRegenPerSecond": 0.2,
-        "WeaponPower": 0,
         "WeaponPowerScale": 1
     },
     "hero_warden": {
-        "AbilityResourceMax": 0,
-        "AbilityResourceRegenPerSecond": 0,
         "BoundAbilities": {
             "1": {
                 "AbilityCastDelay": 0.1,
@@ -3253,15 +3130,11 @@
             "RoundsPerSecond": 0.012,
             "FireRate": 0.3
         },
-        "SprintSpeed": 0,
         "Stamina": 3,
         "StaminaRegenPerSecond": 0.2,
-        "WeaponPower": 0,
         "WeaponPowerScale": 1
     },
     "hero_wraith": {
-        "AbilityResourceMax": 0,
-        "AbilityResourceRegenPerSecond": 0,
         "BoundAbilities": {
             "1": {
                 "AbilityCastRange": "500m",
@@ -3349,15 +3222,11 @@
         "SpiritScaling": {
             "SprintSpeed": 0.06
         },
-        "SprintSpeed": 0,
         "Stamina": 3,
         "StaminaRegenPerSecond": 0.2,
-        "WeaponPower": 0,
         "WeaponPowerScale": 1
     },
     "hero_wrecker": {
-        "AbilityResourceMax": 0,
-        "AbilityResourceRegenPerSecond": 0,
         "BoundAbilities": {
             "1": {
                 "AbilityCastDelay": 1.2,
@@ -3442,15 +3311,11 @@
         "SpiritDuration": 1,
         "SpiritRange": 1,
         "SpiritScaling": {},
-        "SprintSpeed": 0,
         "Stamina": 3,
         "StaminaRegenPerSecond": 0.2,
-        "WeaponPower": 0,
         "WeaponPowerScale": 1
     },
     "hero_yakuza": {
-        "AbilityResourceMax": 0,
-        "AbilityResourceRegenPerSecond": 0,
         "BoundAbilities": {
             "1": {
                 "AbilityChannelTimeDisplay": 5.0,
@@ -3532,15 +3397,11 @@
         "SpiritDuration": 1,
         "SpiritRange": 1,
         "SpiritScaling": {},
-        "SprintSpeed": 0,
         "Stamina": 3,
         "StaminaRegenPerSecond": 0.2,
-        "WeaponPower": 0,
         "WeaponPowerScale": 1
     },
     "hero_yamato": {
-        "AbilityResourceMax": 0,
-        "AbilityResourceRegenPerSecond": 0,
         "BoundAbilities": {
             "1": {
                 "AbilityCastDelay": 1.4,
@@ -3626,10 +3487,8 @@
         "SpiritDuration": 1,
         "SpiritRange": 1,
         "SpiritScaling": {},
-        "SprintSpeed": 0,
         "Stamina": 3,
         "StaminaRegenPerSecond": 0.2,
-        "WeaponPower": 0,
         "WeaponPowerScale": 1
     }
 }

@@ -75,7 +75,9 @@ class ItemParser:
                 new_key = (
                     attr_key.replace('Ability', '') if attr_key.startswith('Ability') else attr_key
                 )
-                parsed_item_data[new_key] = item_ability_attrs[attr_key]['m_strValue']
+                value = item_ability_attrs[attr_key]['m_strValue']
+                if value != '0' and value != 0:
+                    parsed_item_data[new_key] = item_ability_attrs[attr_key]['m_strValue']
 
             description = self.localizations['descriptions'].get(key + '_desc')
             parsed_item_data['Description'] = string_utils.format_description(

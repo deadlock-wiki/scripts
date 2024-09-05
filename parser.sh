@@ -1,5 +1,5 @@
 cd src/parser
-python3 parser.py
+# python3 parser.py
 
 echo "Exporting to CSV..."
 cd ..
