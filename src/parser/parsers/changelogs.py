@@ -28,7 +28,7 @@ class ChangelogParser:
 
         # take parsed changelogs and transform them into some other useful formats
         self._create_resource_changelogs(changelogs_by_date)
-        # self._create_changelog_db_data(changelogs_by_date)
+        self._create_changelog_db_data(changelogs_by_date)
 
     def run(self, version):
         logs = self._read_logs(version)
@@ -169,7 +169,7 @@ class ChangelogParser:
                             'resource_key': group_name,
                             'resource_type': header,
                             'patch_version': '',
-                            'timestamp': datetime(date),
+                            'timestamp': date,
                         }
                         rows.append(changelog_row)
 
