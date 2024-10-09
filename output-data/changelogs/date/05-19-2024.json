@@ -1,23 +1,26 @@
 {
-    "Other": {
-        "General": []
-    },
-    "Heroes": {
-        "General": []
-    },
-    "Items": {
-        "General": [],
-        "Kinetic Dash": [
-            "- {AbilityIcon|Ability=Kinetic Dash|Size=20} Kinetic Dash passive now has a 14s cooldown"
-        ],
-        "Silence Glyph": [
-            "- {AbilityIcon|Ability=Silence Glyph|Size=20} Silence Glyph duration reduced from 5s to 3.5s"
-        ]
-    },
-    "Abilities": {
-        "General": []
-    },
-    "Item Gameplay Changes": {
-        "General": []
-    }
+    "Other": [],
+    "Heroes": [],
+    "Items": [
+        {
+            "Description": "- {{ItemIcon|Kinetic Dash}} Kinetic Dash passive now has a 14s cooldown",
+            "Tags": [
+                "Kinetic Dash",
+                "Items",
+                "Weapon Items",
+                "Item Gameplay"
+            ]
+        },
+        {
+            "Description": "- {{ItemIcon|Silence Glyph}} Silence Glyph duration reduced from 5s to 3.5s",
+            "Tags": [
+                "Silence Glyph",
+                "Items",
+                "Spirit Items",
+                "Item Gameplay"
+            ]
+        }
+    ],
+    "Abilities": [],
+    "Item Gameplay": []
 }

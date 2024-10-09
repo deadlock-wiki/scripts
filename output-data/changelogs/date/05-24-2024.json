@@ -1,22 +1,43 @@
 {
-    "Other": {
-        "General": []
-    },
-    "Heroes": {
-        "General": []
-    },
-    "Items": {
-        "General": [],
-        "Decay": [
-            "- Cast range reduced from 30m to 15m"
-        ],
-        "Withering Whip": [
-            "- No longer has +1 Stamina",
-            "- Duration reduced from 3.5s to 3s",
-            "- Bullet Resist Reduction reduced from -20% to -14%"
-        ]
-    },
-    "Abilities": {
-        "General": []
-    }
+    "Other": [],
+    "Heroes": [],
+    "Items": [
+        {
+            "Description": "- Cast range reduced from 30m to 15m",
+            "Tags": [
+                "Decay",
+                "Items",
+                "Spirit Items",
+                "Other"
+            ]
+        },
+        {
+            "Description": "- No longer has +1 Stamina",
+            "Tags": [
+                "Withering Whip",
+                "Items",
+                "Spirit Items",
+                "Other"
+            ]
+        },
+        {
+            "Description": "- Duration reduced from 3.5s to 3s",
+            "Tags": [
+                "Withering Whip",
+                "Items",
+                "Spirit Items",
+                "Other"
+            ]
+        },
+        {
+            "Description": "- Bullet Resist Reduction reduced from -20% to -14%",
+            "Tags": [
+                "Withering Whip",
+                "Items",
+                "Spirit Items",
+                "Other"
+            ]
+        }
+    ],
+    "Abilities": []
 }
